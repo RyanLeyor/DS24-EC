@@ -14,6 +14,7 @@ util/
 
 # För att köra projektet
  kör följande i teminalen:  
+   
     python main.py
 
 # Utföra tester: (Genom Pytest)
@@ -23,5 +24,6 @@ util/
 
 # Schemaläggning:
 Följande flöde kan schemaläggas för automatisk körning via Windows: Schemaläggare och Mac/Linux: CRON. För att automatiskt lagra vädret för städerna Stockholm, Göteborg och Malmö. 
+
 
 
