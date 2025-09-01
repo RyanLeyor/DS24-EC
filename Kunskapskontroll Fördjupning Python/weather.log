@@ -1,0 +1,5 @@
+[2025-09-01 04:33:30,413][weather][INFO] Starting up...
+[2025-09-01 04:33:30,415][weather][INFO] Inserted data for Stockholm on 2025-09-01.
+[2025-09-01 04:33:30,417][weather][INFO] Inserted data for Gothenburg on 2025-09-01.
+[2025-09-01 04:33:30,419][weather][INFO] Inserted data for Malmo on 2025-09-01.
+[2025-09-01 04:33:30,419][weather][INFO] Finished processing weather data.
